@@ -1,0 +1,15 @@
+# Docker Sandboxes branch-mode worktrees
+.sbx/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Secrets — never commit these
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Questions & help
+    url: https://github.com/ajeetraina/250-dollar-agent-challenge/discussions
+    about: Ask about the challenge, the $250 credit, or getting sbx running.
+  - name: 🚀 Getting started
+    url: https://github.com/ajeetraina/250-dollar-agent-challenge/blob/main/GETTING_STARTED.md
+    about: Claim the credit, install sbx, and run your first agent.

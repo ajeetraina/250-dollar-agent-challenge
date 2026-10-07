@@ -1,0 +1,109 @@
+name: "🏆 Challenge Submission"
+description: "Submit your $250 Agent Challenge build"
+title: "[Submission] <project name>"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for building! Submit before **Fri, Oct 30, 11:59 PM IST**.
+        Make sure your build log, demo video, and spend screenshot are ready. See [RULES.md](../blob/main/RULES.md).
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      placeholder: "e.g. NightOwl — the 2 AM on-call agent"
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      description: Pick one.
+      options:
+        - "🌙 Night Shift"
+        - "🔐 No Keys Allowed"
+        - "🔌 Tool Master"
+        - "👥 The Crew"
+        - "🧰 Kit Maker"
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team (names + GitHub handles, up to 3)
+      placeholder: "@ajeetraina, @teammate2"
+    validations:
+      required: true
+  - type: input
+    id: pitch
+    attributes:
+      label: One-line pitch
+      placeholder: "What does it do, in a sentence?"
+    validations:
+      required: true
+  - type: input
+    id: buildlog
+    attributes:
+      label: Build log (link)
+      description: A blog post or repo README that lets anyone repeat your build step by step.
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: video
+    attributes:
+      label: Demo video (link)
+      description: ~2 minutes. Public or unlisted.
+      placeholder: "https://youtu.be/..."
+    validations:
+      required: true
+  - type: textarea
+    id: spend
+    attributes:
+      label: Spend screenshot
+      description: Paste/drag a screenshot of your Docker Agentic Platform usage, or link it.
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Cloud or local?
+      options:
+        - "Docker Cloud Sandboxes (used the $250 credit)"
+        - "Local (sbx CLI on my machine)"
+    validations:
+      required: true
+  - type: textarea
+    id: run
+    attributes:
+      label: How to run it
+      description: The commands someone needs to reproduce your build.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: proud
+    attributes:
+      label: What are you proud of?
+    validations:
+      required: false
+  - type: checkboxes
+    id: awards
+    attributes:
+      label: Also competing for a special award?
+      options:
+        - label: "💰 Best Bang for the Buck"
+        - label: "✍️ Best Build Log"
+        - label: "🙌 People's Choice"
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmations
+      options:
+        - label: "My team is 1–3 people and I'm only on one team."
+          required: true
+        - label: "No secrets are leaked in my repo, video, or screenshots."
+          required: true
+        - label: "My build log lets someone else reproduce this."
+          required: true
