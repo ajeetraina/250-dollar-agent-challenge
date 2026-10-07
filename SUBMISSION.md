@@ -1,14 +1,14 @@
 # 📥 Submit Your Build
 
-Submissions run through this repo's **Issues** - nothing external to fill in.
+Submit through the **[official submission form](https://forms.gle/TFrsnDkbnZrrfoUW8)**.
 
 ## How
 
-1. Open the **[Issues tab → New issue](../../issues/new/choose)**.
-2. Choose the **🏆 Challenge Submission** template.
-3. Fill it in and submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
+1. Get your **build log**, **2-minute demo video**, and **spend screenshot** ready (checklist below).
+2. Fill in the **[submission form →](https://forms.gle/TFrsnDkbnZrrfoUW8)**.
+3. Submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
 
-Prefer to prepare offline first? Use the checklist and template below.
+> **Backup:** prefer GitHub? You can also submit via the **[Issues tab](../../issues/new/choose)** → 🏆 Challenge Submission. The template below mirrors the form's fields so you can prepare offline first.
 
 ---
 

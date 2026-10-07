@@ -25,7 +25,7 @@ Yes - Claude Code, Codex, Copilot, and Gemini all work out of the box (`sbx run 
 You store API keys in your **host OS keychain** via `sbx secret set`. The sandbox proxy injects auth headers into outbound requests, so the **raw key never enters the sandbox**. That's what makes the *No Keys Allowed* track possible.
 
 ### Where do I submit?
-In this repo's **[Issues tab](../../issues/new/choose)** → **🏆 Challenge Submission**. Details in [SUBMISSION.md](SUBMISSION.md).
+Through the **[official submission form](https://forms.gle/TFrsnDkbnZrrfoUW8)**. As a backup you can also use this repo's **[Issues tab](../../issues/new/choose)** → **🏆 Challenge Submission**. Details in [SUBMISSION.md](SUBMISSION.md).
 
 ### What are the deadlines?
 - **Sat, Oct 10** - kickoff

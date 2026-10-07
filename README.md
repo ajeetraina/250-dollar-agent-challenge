@@ -80,13 +80,15 @@ Winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21
 
 ## 📥 How to submit
 
-Submissions run entirely through this repo. **No external form needed**:
+Submit through the **[official submission form](https://forms.gle/TFrsnDkbnZrrfoUW8)**:
 
-1. Go to the **[Issues tab](../../issues/new/choose)** and choose **"🏆 Challenge Submission."**
-2. Fill in the form: team, track, build-log link, 2-min demo video, and a screenshot of your spend.
+1. Have your **build log**, **2-minute demo video**, and **spend screenshot** ready.
+2. Fill in the **[submission form →](https://forms.gle/TFrsnDkbnZrrfoUW8)** with your team, track, and those three links.
 3. Submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
 
-Full requirements and judging criteria are in **[RULES.md](RULES.md)**. A copy-paste template also lives in **[SUBMISSION.md](SUBMISSION.md)**.
+> Prefer GitHub? You can also submit via the **[Issues tab](../../issues/new/choose)** → 🏆 Challenge Submission as a backup.
+
+Full requirements and judging criteria are in **[RULES.md](RULES.md)**. A copy-paste checklist lives in **[SUBMISSION.md](SUBMISSION.md)**.
 
 ---
 

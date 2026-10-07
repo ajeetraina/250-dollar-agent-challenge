@@ -25,7 +25,7 @@ All four, by **Sat, Oct 31, 11:59 PM IST** (the last date to submit):
 1. **Build log** - a blog post or repo README that lets someone **repeat your build step by step**.
 2. **2-minute demo video** - show it working (a public/unlisted link is fine).
 3. **Spend screenshot** - your Docker Agentic Platform usage/credit screen.
-4. **The submission form** - [open an issue](../../issues/new/choose) using the **🏆 Challenge Submission** template.
+4. **The submission form** - fill in the [official submission form](https://forms.gle/TFrsnDkbnZrrfoUW8) (or, as a backup, [open a GitHub issue](../../issues/new/choose) using the **🏆 Challenge Submission** template).
 
 See **[SUBMISSION.md](SUBMISSION.md)** for the checklist and template.
 
