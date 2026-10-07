@@ -31,9 +31,10 @@ In this repo's **[Issues tab](../../issues/new/choose)** → **🏆 Challenge Su
 - **Sat, Oct 10** - kickoff
 - **Fri, Oct 30, 11:59 PM IST** - submissions close
 - **Sat, Oct 31** - Demo Day & People's Choice voting
+- **Sat, 21 Nov 2026** - Winners announced at the Collabnix Meetup, Bangalore
 
 ### What do winners get?
-Announced **on stage at an upcoming Collabnix Meetup**, plus a slot to demo to the community.
+Winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21 Nov 2026**, get a slot to demo to the community, and take home **Docker swags and goodies** 🐳🎁.
 
 ### Where do I get help?
 Collabnix **Slack** and **Discord**, or open a [Discussion](../../discussions) here.

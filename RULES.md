@@ -52,7 +52,7 @@ Each track winner is chosen on:
 
 ## The prize
 
-Track and special-award winners are announced **on stage at an upcoming Collabnix Meetup** and get to demo their project to the community.
+Track and special-award winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21 Nov 2026**, get to demo their project to the community, and take home **Docker swags and goodies**.
 
 ---
 

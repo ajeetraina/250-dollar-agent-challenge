@@ -60,7 +60,7 @@ Pick one. Each has its own winner. Full briefs + starter ideas in **[TRACKS.md](
 
 ### 🎤 The prize
 
-Winners are announced **on stage at an upcoming Collabnix Meetup** and get to demo their project to the community.
+Winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21 Nov 2026**, get to demo their project to the community, and take home **Docker swags and goodies** 🐳🎁.
 
 ---
 
@@ -72,6 +72,7 @@ Winners are announced **on stage at an upcoming Collabnix Meetup** and get to de
 | **Oct 10 – Oct 30** | Build, with help in the Collabnix **Slack** and **Discord** |
 | **Fri, Oct 30, 11:59 PM IST** | Submissions close |
 | **Sat, Oct 31** | Demo Day & People's Choice voting |
+| **Sat, 21 Nov 2026** | Winners announced on stage at the Collabnix Meetup, Bangalore, with Docker swags & goodies |
 
 > ⏰ **Claim your credit early.** The Docker offer ends **Oct 31, 11:59 PM PT**.
 
