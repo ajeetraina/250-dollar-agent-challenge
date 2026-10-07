@@ -133,6 +133,22 @@ sbx ports my-sandbox --publish 8080:3000    # host:8080 → sandbox:3000
 ### Watch your spend
 Track usage as you go so you can screenshot it for your submission (see 💰 *Best Bang for the Buck*). Check your Docker Agentic Platform dashboard for the running credit balance.
 
+### 💰 Don't let a sandbox run up your credit while you sleep
+A sandbox keeps billing while it's running, even idle. There's no built-in auto-stop timer, so stop them deliberately. A *stopped* sandbox preserves its state and doesn't burn compute.
+
+```bash
+# Best: tie the sandbox to the task - stop it the moment the job finishes
+sbx exec -it nightshift bash -c './my-task.sh'; sbx stop nightshift
+
+# Or a hard time cap. Keep the host awake, or it won't fire while asleep;
+# on macOS, wrap the whole line with: caffeinate -i ...
+( sleep 10800 && sbx stop nightshift ) &   # auto-stop after 3 hours
+
+# Morning safety net: see what's still running, then stop it
+sbx ls
+sbx stop <name>
+```
+
 ---
 
 ## No credit card? Build locally

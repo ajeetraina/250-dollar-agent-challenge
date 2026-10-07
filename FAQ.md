@@ -6,6 +6,9 @@ A one-time compute credit that new **Docker Agentic Platform** signups get for D
 ### How far does $250 actually go?
 Docker's own example, at the *Medium* tier (4 vCPU, 8 GB, **$0.28/hr**): **4 agents in parallel, 7 hours a day, for 30 days** - or about **3,500 fifteen-minute automated runs**. Plenty for a hackathon.
 
+### How do I keep a sandbox from running up my credit while I sleep?
+A sandbox bills while it's running, even idle, and there's no built-in auto-stop timer. So stop them deliberately: a *stopped* sandbox keeps its state and stops burning compute. Best practice is to tie the sandbox to the task so it stops when the job finishes (`sbx exec -it nightshift bash -c './my-task.sh'; sbx stop nightshift`), or set a hard time cap, or just run `sbx ls` and `sbx stop` each morning. See [GETTING_STARTED.md](GETTING_STARTED.md#-dont-let-a-sandbox-run-up-your-credit-while-you-sleep).
+
 ### What's a "sandbox"?
 A cloud microVM with its own Linux kernel, Docker daemon, filesystem, and network stack. Your agent gets `sudo` inside it, fully isolated from your machine - and it keeps running after you close your laptop.
 

@@ -83,6 +83,14 @@ sbx run my-sandbox
 
 That's the whole loop. Claude Code, Codex, Copilot, and Gemini all work out of the box.
 
+> 💰 **Pro tip:** a sandbox keeps billing while it runs, even idle, and there's no built-in auto-stop timer. Stop it the moment your job is done so nothing runs up your credit overnight. The cleanest pattern ties the two together:
+>
+> ```bash
+> sbx exec -it nightshift bash -c './my-task.sh'; sbx stop nightshift
+> ```
+>
+> A stopped sandbox keeps its state and stops burning compute.
+
 **No credit card?** You can still compete. The same `sbx` CLI runs locally, and local entries are fully welcome (the 💰 Best Bang for the Buck award is the only one judged on cloud spend).
 
 ---
