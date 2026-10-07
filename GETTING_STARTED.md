@@ -13,7 +13,7 @@ From zero to your first cloud agent in about 10 minutes.
 
 > **Heads up**
 > - One credit **per user / account**.
-> - Offer ends **October 31, 2026, 11:59 PM PT** — claim early.
+> - Offer ends **October 31, 2026, 11:59 PM PT** - claim early.
 > - **No credit card / can't claim the credit?** You can still compete by running `sbx` locally. Skip to [the local path](#no-credit-card-build-locally).
 
 ---
@@ -30,9 +30,9 @@ brew install docker/tap/sbx
 winget install -h Docker.sbx
 ```
 
-**Linux** (Ubuntu 22.04+): requires KVM — see the [official docs](https://docs.docker.com/ai/sandboxes/).
+**Linux** (Ubuntu 22.04+): requires KVM - see the [official docs](https://docs.docker.com/ai/sandboxes/).
 
-> Works alongside **Rancher Desktop** too — `sbx` runs standalone and doesn't need Docker Desktop.
+> Works alongside **Rancher Desktop** too - `sbx` runs standalone and doesn't need Docker Desktop.
 
 ---
 
@@ -56,13 +56,13 @@ You can change this later with `sbx policy set-default` or allow specific hosts 
 
 ## 4. Store your agent's credentials
 
-Secrets are kept in your **host OS keychain**. The sandbox proxy injects auth headers into outbound requests — **raw key values never enter the sandbox** (this is the magic behind the 🔐 *No Keys Allowed* track).
+Secrets are kept in your **host OS keychain**. The sandbox proxy injects auth headers into outbound requests - **raw key values never enter the sandbox** (this is the magic behind the 🔐 *No Keys Allowed* track).
 
 ```bash
-sbx secret set -g anthropic                       # Claude  — paste your Anthropic API key
-sbx secret set -g openai                          # Codex   — paste your OpenAI API key
-sbx secret set -g github -t "$(gh auth token)"    # GitHub  — token from gh CLI
-sbx secret set -g google                          # Gemini  — paste your Google API key
+sbx secret set -g anthropic                       # Claude  - paste your Anthropic API key
+sbx secret set -g openai                          # Codex   - paste your OpenAI API key
+sbx secret set -g github -t "$(gh auth token)"    # GitHub  - token from gh CLI
+sbx secret set -g google                          # Gemini  - paste your Google API key
 ```
 
 Using 1Password? Keep keys off disk entirely:
@@ -100,7 +100,7 @@ sbx             # interactive TUI dashboard
 
 ## 6. The workflows you'll actually use in the challenge
 
-### Close your laptop — the work keeps going (🌙 Night Shift)
+### Close your laptop - the work keeps going (🌙 Night Shift)
 A sandbox is a cloud microVM. Start a long task, detach, and reconnect later:
 ```bash
 sbx run claude --name nightshift ~/my-project
@@ -110,7 +110,7 @@ sbx exec -d nightshift npm run long-task   # kick off a background command
 ```
 
 ### Run several agents at once (👥 The Crew)
-Each sandbox is fully isolated — give every agent its own:
+Each sandbox is fully isolated - give every agent its own:
 ```bash
 sbx run claude --name crew-a ~/project
 sbx run claude --name crew-b ~/project
@@ -137,19 +137,19 @@ Track usage as you go so you can screenshot it for your submission (see 💰 *Be
 
 ## No credit card? Build locally
 
-The entire `sbx` CLI runs on your machine. You still get isolated microVM sandboxes — you just run them locally instead of burning cloud credit. Everything above works the same; local entries are fully eligible (though the 💰 *Best Bang for the Buck* award is judged on cloud spend).
+The entire `sbx` CLI runs on your machine. You still get isolated microVM sandboxes - you just run them locally instead of burning cloud credit. Everything above works the same; local entries are fully eligible (though the 💰 *Best Bang for the Buck* award is judged on cloud spend).
 
 ---
 
 ## Housekeeping
 
 ```bash
-sbx stop my-sandbox     # pause — state is preserved
+sbx stop my-sandbox     # pause - state is preserved
 sbx run  my-sandbox     # resume
 sbx rm   my-sandbox     # permanent delete (and all its branch worktrees)
 ```
 
-> **Security note:** agents have `sudo` *inside* the sandbox by design — the hypervisor boundary is the control. The one real residual risk is your **mounted workspace**: an agent can change git hooks, CI configs, and build scripts there. After a session, `git diff` and peek at `.git/hooks/`.
+> **Security note:** agents have `sudo` *inside* the sandbox by design - the hypervisor boundary is the control. The one real residual risk is your **mounted workspace**: an agent can change git hooks, CI configs, and build scripts there. After a session, `git diff` and peek at `.git/hooks/`.
 
 Full command reference: `sbx <command> --help` and the [official docs](https://docs.docker.com/ai/sandboxes/).
 

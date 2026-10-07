@@ -9,7 +9,7 @@
 ## The credit
 
 - The **$250 credit** comes from Docker's promo: one-time, **one per user / account**, credit card required at signup, and it ends **October 31, 2026, 11:59 PM PT**. Claim it at https://www.docker.com/c/sbx-promo/.
-- Claiming and spending the credit is between you and Docker — this hackathon doesn't distribute credit.
+- Claiming and spending the credit is between you and Docker - this hackathon doesn't distribute credit.
 - **No credit card?** You can compete with a **local** `sbx` build. Local entries are fully eligible, except the 💰 *Best Bang for the Buck* award, which is judged on cloud spend.
 
 ## What you build
@@ -22,10 +22,10 @@
 
 All four, by **Fri, Oct 30, 11:59 PM IST**:
 
-1. **Build log** — a blog post or repo README that lets someone **repeat your build step by step**.
-2. **2-minute demo video** — show it working (a public/unlisted link is fine).
-3. **Spend screenshot** — your Docker Agentic Platform usage/credit screen.
-4. **The submission form** — [open an issue](../../issues/new/choose) using the **🏆 Challenge Submission** template.
+1. **Build log** - a blog post or repo README that lets someone **repeat your build step by step**.
+2. **2-minute demo video** - show it working (a public/unlisted link is fine).
+3. **Spend screenshot** - your Docker Agentic Platform usage/credit screen.
+4. **The submission form** - [open an issue](../../issues/new/choose) using the **🏆 Challenge Submission** template.
 
 See **[SUBMISSION.md](SUBMISSION.md)** for the checklist and template.
 
@@ -40,15 +40,15 @@ Each track winner is chosen on:
 | **Reproducibility** | Someone else can follow your build log and get there. | 25% |
 | **Craft & creativity** | Originality, polish, and the "huh, neat" factor. | 20% |
 
-- 💰 **Best Bang for the Buck** — judged on result relative to cloud credit spent.
-- ✍️ **Best Build Log** — judged on clarity and reusability of the write-up.
-- 🙌 **People's Choice** — community vote on Demo Day (Sat, Oct 31).
+- 💰 **Best Bang for the Buck** - judged on result relative to cloud credit spent.
+- ✍️ **Best Build Log** - judged on clarity and reusability of the write-up.
+- 🙌 **People's Choice** - community vote on Demo Day (Sat, Oct 31).
 
 ## Conduct
 
 - Be respectful; follow the Collabnix community code of conduct.
 - Don't submit others' work as your own. Credit what you reuse.
-- Keep secrets out of your repo, video, and screenshots — the sandbox proxy exists so you never have to expose them.
+- Keep secrets out of your repo, video, and screenshots - the sandbox proxy exists so you never have to expose them.
 
 ## The prize
 

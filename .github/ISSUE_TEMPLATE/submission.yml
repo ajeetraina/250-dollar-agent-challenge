@@ -12,7 +12,7 @@ body:
     id: project
     attributes:
       label: Project name
-      placeholder: "e.g. NightOwl — the 2 AM on-call agent"
+      placeholder: "e.g. NightOwl - the 2 AM on-call agent"
     validations:
       required: true
   - type: dropdown

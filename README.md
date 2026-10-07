@@ -12,9 +12,9 @@
 
 ## The deal
 
-Docker is giving new **Docker Agentic Platform** signups a **one-time $250 compute credit** (10× the standard $25) for its Cloud Sandboxes — microVMs that each run their own kernel in the cloud, so your agents keep working after you close your laptop.
+Docker is giving new **Docker Agentic Platform** signups a **one-time $250 compute credit** (10× the standard $25) for its Cloud Sandboxes: microVMs that each run their own kernel in the cloud, so your agents keep working after you close your laptop.
 
-What $250 actually buys you (Docker's own example, priced at the *Medium* tier — 4 vCPU, 8 GB, **$0.28/hr**):
+What $250 actually buys you (Docker's own example, priced at the *Medium* tier of 4 vCPU, 8 GB, **$0.28/hr**):
 
 - 🧑‍🤝‍🧑 **4 agents in parallel, 7 hours a day, for 30 days**, or
 - ⚡ **~3,500 fifteen-minute automated runs**
@@ -23,20 +23,20 @@ What $250 actually buys you (Docker's own example, priced at the *Medium* tier �
 >
 > 👉 **Claim it: https://www.docker.com/c/sbx-promo/**
 
-**No credit card?** You can still compete — build locally with the [`sbx` CLI](GETTING_STARTED.md). Local entries are welcome.
+**No credit card?** You can still compete. Build locally with the [`sbx` CLI](GETTING_STARTED.md). Local entries are welcome.
 
 ---
 
 ## How it works
 
 1. **Claim** your $250 credit at the [Docker Agentic Platform](https://www.docker.com/c/sbx-promo/).
-2. **Install & authenticate** the `sbx` CLI — see **[GETTING_STARTED.md](GETTING_STARTED.md)**.
-3. **Pick a track** (below) and **build** — solo or in a team of up to 3.
-4. **Write a build log** — a blog post or a repo README that lets anyone repeat your build step by step.
+2. **Install & authenticate** the `sbx` CLI (see **[GETTING_STARTED.md](GETTING_STARTED.md)**).
+3. **Pick a track** (below) and **build**, solo or in a team of up to 3.
+4. **Write a build log**: a blog post or a repo README that lets anyone repeat your build step by step.
 5. **Submit** your build log, a 2-minute demo video, and a screenshot of your spend → [open a submission](#-how-to-submit).
 6. **Join Demo Day** and vote.
 
-New to all this? Start with **[GETTING_STARTED.md](GETTING_STARTED.md)** — it takes you from zero to your first agent running in the cloud.
+New to all this? Start with **[GETTING_STARTED.md](GETTING_STARTED.md)**. It takes you from zero to your first agent running in the cloud.
 
 ---
 
@@ -54,9 +54,9 @@ Pick one. Each has its own winner. Full briefs + starter ideas in **[TRACKS.md](
 
 ### ✨ Special awards (any track qualifies)
 
-- 💰 **Best Bang for the Buck** — the most impressive result per dollar of credit spent.
-- ✍️ **Best Build Log** — the write-up others will actually learn from.
-- 🙌 **People's Choice** — voted by the community on Demo Day.
+- 💰 **Best Bang for the Buck**: the most impressive result per dollar of credit spent.
+- ✍️ **Best Build Log**: the write-up others will actually learn from.
+- 🙌 **People's Choice**: voted by the community on Demo Day.
 
 ### 🎤 The prize
 
@@ -68,18 +68,18 @@ Winners are announced **on stage at an upcoming Collabnix Meetup** and get to de
 
 | When | What |
 |---|---|
-| **Sat, Oct 10** | Online kickoff — walkthrough & Q&A |
+| **Sat, Oct 10** | Online kickoff: walkthrough & Q&A |
 | **Oct 10 – Oct 30** | Build, with help in the Collabnix **Slack** and **Discord** |
 | **Fri, Oct 30, 11:59 PM IST** | Submissions close |
 | **Sat, Oct 31** | Demo Day & People's Choice voting |
 
-> ⏰ **Claim your credit early** — the Docker offer ends **Oct 31, 11:59 PM PT**.
+> ⏰ **Claim your credit early.** The Docker offer ends **Oct 31, 11:59 PM PT**.
 
 ---
 
 ## 📥 How to submit
 
-Submissions run entirely through this repo — **no external form needed**:
+Submissions run entirely through this repo. **No external form needed**:
 
 1. Go to the **[Issues tab](../../issues/new/choose)** and choose **"🏆 Challenge Submission."**
 2. Fill in the form: team, track, build-log link, 2-min demo video, and a screenshot of your spend.

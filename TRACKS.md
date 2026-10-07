@@ -26,7 +26,7 @@ The headline feature of Cloud Sandboxes: each one is a microVM with its own kern
 
 **Uses real APIs, but the agent never sees your tokens.**
 
-Docker's proxy injects auth headers into outbound requests — raw credential values never enter the sandbox. Build something that hits real, authenticated APIs while proving the agent never had the secret.
+Docker's proxy injects auth headers into outbound requests - raw credential values never enter the sandbox. Build something that hits real, authenticated APIs while proving the agent never had the secret.
 
 **Starter ideas**
 - An agent that manages GitHub (issues, PRs, releases) via a proxied token.
@@ -57,7 +57,7 @@ Wire your agent to one or more [Model Context Protocol](https://modelcontextprot
 
 **Several agents in parallel, each in its own sandbox.**
 
-Split a problem across multiple isolated sandboxes and have them work at once — fan-out, divide-and-conquer, or specialist roles.
+Split a problem across multiple isolated sandboxes and have them work at once - fan-out, divide-and-conquer, or specialist roles.
 
 **Starter ideas**
 - A "team" (architect, implementer, reviewer) each in its own sandbox on the same repo via branch mode.
@@ -88,9 +88,9 @@ Package your build so anyone can reproduce it with one command. Think reusable t
 
 Any track qualifies for these:
 
-- 💰 **Best Bang for the Buck** — most impressive result per dollar of credit spent. *(Include your spend screenshot — this is judged on cloud spend.)*
-- ✍️ **Best Build Log** — the write-up others will actually learn from and repeat.
-- 🙌 **People's Choice** — voted by the community on Demo Day.
+- 💰 **Best Bang for the Buck** - most impressive result per dollar of credit spent. *(Include your spend screenshot - this is judged on cloud spend.)*
+- ✍️ **Best Build Log** - the write-up others will actually learn from and repeat.
+- 🙌 **People's Choice** - voted by the community on Demo Day.
 
 ---
 

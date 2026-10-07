@@ -1,6 +1,6 @@
 # 📥 Submit Your Build
 
-Submissions run through this repo's **Issues** — nothing external to fill in.
+Submissions run through this repo's **Issues** - nothing external to fill in.
 
 ## How
 
