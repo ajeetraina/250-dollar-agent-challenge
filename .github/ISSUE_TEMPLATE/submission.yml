@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for building! Submit before **Fri, Oct 30, 11:59 PM IST**.
+        Thanks for building! Submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
         Make sure your build log, demo video, and spend screenshot are ready. See [RULES.md](../blob/main/RULES.md).
   - type: input
     id: project

@@ -90,7 +90,7 @@ Any track qualifies for these:
 
 - 💰 **Best Bang for the Buck** - most impressive result per dollar of credit spent. *(Include your spend screenshot - this is judged on cloud spend.)*
 - ✍️ **Best Build Log** - the write-up others will actually learn from and repeat.
-- 🙌 **People's Choice** - voted by the community on Demo Day.
+- 🙌 **People's Choice** - voted by the community online, on the recorded demos.
 
 ---
 

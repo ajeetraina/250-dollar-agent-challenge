@@ -20,7 +20,7 @@
 
 ## What you submit
 
-All four, by **Fri, Oct 30, 11:59 PM IST**:
+All four, by **Sat, Oct 31, 11:59 PM IST** (the last date to submit):
 
 1. **Build log** - a blog post or repo README that lets someone **repeat your build step by step**.
 2. **2-minute demo video** - show it working (a public/unlisted link is fine).
@@ -42,7 +42,7 @@ Each track winner is chosen on:
 
 - 💰 **Best Bang for the Buck** - judged on result relative to cloud credit spent.
 - ✍️ **Best Build Log** - judged on clarity and reusability of the write-up.
-- 🙌 **People's Choice** - community vote on Demo Day (Sat, Oct 31).
+- 🙌 **People's Choice** - online community vote on the recorded demos after submissions close.
 
 ## Conduct
 

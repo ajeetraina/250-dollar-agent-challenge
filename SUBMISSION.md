@@ -6,7 +6,7 @@ Submissions run through this repo's **Issues** - nothing external to fill in.
 
 1. Open the **[Issues tab → New issue](../../issues/new/choose)**.
 2. Choose the **🏆 Challenge Submission** template.
-3. Fill it in and submit before **Fri, Oct 30, 11:59 PM IST**.
+3. Fill it in and submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
 
 Prefer to prepare offline first? Use the checklist and template below.
 
@@ -20,7 +20,7 @@ Prefer to prepare offline first? Use the checklist and template below.
 - [ ] **2-minute demo video** recorded and linked (public or unlisted)
 - [ ] **Spend screenshot** from the Docker Agentic Platform dashboard
 - [ ] No secrets leaked in the repo, video, or screenshots
-- [ ] Submitted before **Oct 30, 11:59 PM IST**
+- [ ] Submitted before **Oct 31, 11:59 PM IST**
 
 ---
 

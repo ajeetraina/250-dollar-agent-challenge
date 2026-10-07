@@ -34,7 +34,7 @@ What $250 actually buys you (Docker's own example, priced at the *Medium* tier o
 3. **Pick a track** (below) and **build**, solo or in a team of up to 3.
 4. **Write a build log**: a blog post or a repo README that lets anyone repeat your build step by step.
 5. **Submit** your build log, a 2-minute demo video, and a screenshot of your spend → [open a submission](#-how-to-submit).
-6. **Join Demo Day** and vote.
+6. **Record a short demo**, share it, and vote online. Winners are revealed in Bangalore on 21 Nov.
 
 New to all this? Start with **[GETTING_STARTED.md](GETTING_STARTED.md)**. It takes you from zero to your first agent running in the cloud.
 
@@ -56,7 +56,7 @@ Pick one. Each has its own winner. Full briefs + starter ideas in **[TRACKS.md](
 
 - 💰 **Best Bang for the Buck**: the most impressive result per dollar of credit spent.
 - ✍️ **Best Build Log**: the write-up others will actually learn from.
-- 🙌 **People's Choice**: voted by the community on Demo Day.
+- 🙌 **People's Choice**: voted by the community online, on the recorded demos.
 
 ### 🎤 The prize
 
@@ -69,9 +69,9 @@ Winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21
 | When | What |
 |---|---|
 | **Sat, Oct 10** | Online kickoff: walkthrough & Q&A |
-| **Oct 10 – Oct 30** | Build, with help in the Collabnix **Slack** and **Discord** |
-| **Fri, Oct 30, 11:59 PM IST** | Submissions close |
-| **Sat, Oct 31** | Demo Day & People's Choice voting |
+| **Oct 10 – Oct 31** | Build, with help in the Collabnix **Slack** and **Discord** |
+| **Sat, Oct 31, 11:59 PM IST** | Submissions close (last date to submit) |
+| **Early Nov (online)** | Judging & People's Choice voting on the recorded demos |
 | **Sat, 21 Nov 2026** | Winners announced on stage at the Collabnix Meetup, Bangalore, with Docker swags & goodies |
 
 > ⏰ **Claim your credit early.** The Docker offer ends **Oct 31, 11:59 PM PT**.
@@ -84,7 +84,7 @@ Submissions run entirely through this repo. **No external form needed**:
 
 1. Go to the **[Issues tab](../../issues/new/choose)** and choose **"🏆 Challenge Submission."**
 2. Fill in the form: team, track, build-log link, 2-min demo video, and a screenshot of your spend.
-3. Submit before **Fri, Oct 30, 11:59 PM IST**.
+3. Submit before **Sat, Oct 31, 11:59 PM IST** (the last date to submit).
 
 Full requirements and judging criteria are in **[RULES.md](RULES.md)**. A copy-paste template also lives in **[SUBMISSION.md](SUBMISSION.md)**.
 

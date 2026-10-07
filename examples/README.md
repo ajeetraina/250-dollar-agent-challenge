@@ -27,4 +27,4 @@ Stuck on what to build? Here are concrete starting points per track. Steal, remi
 
 ---
 
-Got a build others should see? Add it here via PR after Demo Day, or share it in the Collabnix community.
+Got a build others should see? Add it here via PR after the challenge wraps, or share it in the Collabnix community.
