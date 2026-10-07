@@ -30,7 +30,7 @@ In this repo's **[Issues tab](../../issues/new/choose)** → **🏆 Challenge Su
 ### What are the deadlines?
 - **Sat, Oct 10** - kickoff
 - **Sat, Oct 31, 11:59 PM IST** - submissions close (last date to submit)
-- **Early Nov (online)** - Judging & People's Choice voting on the recorded demos
+- **Nov 1 - 14 (online)** - Judging & People's Choice voting on the recorded demos
 - **Sat, 21 Nov 2026** - Winners announced at the Collabnix Meetup, Bangalore
 
 ### What do winners get?

@@ -71,7 +71,7 @@ Winners are announced **on stage at the Collabnix Meetup in Bangalore on Sat, 21
 | **Sat, Oct 10** | Online kickoff: walkthrough & Q&A |
 | **Oct 10 – Oct 31** | Build, with help in the Collabnix **Slack** and **Discord** |
 | **Sat, Oct 31, 11:59 PM IST** | Submissions close (last date to submit) |
-| **Early Nov (online)** | Judging & People's Choice voting on the recorded demos |
+| **Nov 1 – 14 (online)** | Judging & People's Choice voting on the recorded demos |
 | **Sat, 21 Nov 2026** | Winners announced on stage at the Collabnix Meetup, Bangalore, with Docker swags & goodies |
 
 > ⏰ **Claim your credit early.** The Docker offer ends **Oct 31, 11:59 PM PT**.

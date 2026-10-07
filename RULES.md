@@ -42,7 +42,7 @@ Each track winner is chosen on:
 
 - 💰 **Best Bang for the Buck** - judged on result relative to cloud credit spent.
 - ✍️ **Best Build Log** - judged on clarity and reusability of the write-up.
-- 🙌 **People's Choice** - online community vote on the recorded demos after submissions close.
+- 🙌 **People's Choice** - online community vote on the recorded demos (Nov 1 - 14).
 
 ## Conduct
 
